@@ -10,7 +10,7 @@
     },
     "main": "./src/js/app.js",
     "scripts": {
-        "start": "./node_modules/.bin/eko studio test -p 8080"
+        "start": "./node_modules/.bin/eko studio test -p 8080 --enablestorage"
     },
     "devDependencies": {
         "eko-cli": "*"
