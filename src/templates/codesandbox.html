@@ -12,7 +12,7 @@
         let embedUrl = `${window.location.protocol}//${window.location.host}/embed.html`;
         let queryString = window.location.search ? `&${window.location.search.substr(1)}` : '';
 
-        window.location = `https://helloeko.com/dev?url=${encodeURIComponent(embedUrl)}&autoplay=true${queryString}`
+        window.location = `https://helloeko.com/dev?url=${encodeURIComponent(embedUrl)}&autoplay=true${queryString}&enablestorage=true`
 	</script>
 </body>
 </html>
