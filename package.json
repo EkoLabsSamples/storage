@@ -1,7 +1,7 @@
 {
-    "name": "EXAMPLE NAME",
+    "name": "storage",
     "version": "1.0.0",
-    "description": "EXAMPLE DESCRIPTION. PLEASE CHANGE THIS.",
+    "description": "Using persistent storage API.",
     "keywords": [],
     "author": "",
     "license": "ISC",
